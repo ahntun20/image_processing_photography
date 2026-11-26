@@ -1,0 +1,10 @@
+illuminant,method,angular_error_deg
+tungsten_2850K,gray_world,6.1220589847597155
+tungsten_2850K,max_rgb,0.1515477670315926
+tungsten_2850K,white_patch,0.15154776702918762
+shade_7500K,gray_world,7.189954140817793
+shade_7500K,max_rgb,0.26323487966538056
+shade_7500K,white_patch,0.26323487966538056
+green_fluorescent,gray_world,6.837199814373658
+green_fluorescent,max_rgb,0.2303688578513777
+green_fluorescent,white_patch,0.23036885784821348

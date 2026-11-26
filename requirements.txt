@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+scikit-image>=0.22
+PyWavelets>=1.4
+matplotlib>=3.7
+opencv-python>=4.8
+pillow>=10.0
+pytest>=7.0
